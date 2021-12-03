@@ -1,6 +1,6 @@
-❓Because people keep asking:
-###Q: Why is your name NotNotOddity/!!Oddity?
-###A: Well since "Oddity" was taken, I am not NotOddity so in truth I AM Oddity! (Hope that makes more sense 🤔!)
+#### ❓Because people keep asking:
+**Q:** Why is your name NotNotOddity/!!Oddity?    
+**A:** Well since "Oddity" was taken, I am not NotOddity so in truth I AM Oddity! (Hope that makes more sense 🤔!)
 
 <!--
 **NotOddity/NotOddity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
