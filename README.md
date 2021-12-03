@@ -1,6 +1,6 @@
 #### ❓Because people keep asking:
 **Q:** Why is your name NotNotOddity/!!Oddity?    
-**A:** Well "Oddity" was taken so `(not "Oddity" == "Oddity") == False`, therfor `(not not "Oddity" == "Oddity") == True`. Hope that helps! 🤔
+**A:** Well "Oddity" was taken so `(not "Oddity" == "Oddity") == False`, therefore `(not not "Oddity" == "Oddity") == True`.
 
 <!--
 **NotOddity/NotOddity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
